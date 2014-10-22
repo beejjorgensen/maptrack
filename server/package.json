@@ -1,0 +1,8 @@
+{
+  "name": "maptracker",
+  "version": "1.0.0",
+  "dependencies": {
+    "mime": "^1.2.11",
+    "socket.io": "^1.1.0"
+  }
+}
